@@ -10,7 +10,7 @@ public class BrowserLib {
 
 		} else if (Constants.BROWSER.equalsIgnoreCase("ie")) {
 
-		} else if (Constants.BROWSER.equalsIgnoreCase("firefox")) {  
+		} else if (Constants.BROWSER.equalsIgnoreCase("firefox")) {     
 
 		} else if (Constants.BROWSER.equalsIgnoreCase("Opera")) {
 
